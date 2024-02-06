@@ -102,6 +102,7 @@ px4_add_romfs_files(
 	14001_generic_mc_with_tilt
 
 	16001_helicopter
+	16002_coaxial_helicopter
 
 	# [17000, 17999] Autogyro
 	17002_TF-AutoG2
